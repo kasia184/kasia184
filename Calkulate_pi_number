@@ -1,6 +1,6 @@
 
 from vpython import *
-# import matplotlib.pyplot as plt -> delete
+
 #size of a window
 scene = canvas(widh=900,height=400)
 #setting window title
